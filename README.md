@@ -1,16 +1,18 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+# 💫 About Me:
+🔭 I am a full-stack developer experienced in C# and JavaScript. I also have some experience with Python. I am originally from Turkey and now live in Amsterdam. As a Mechanical Engineer, I developed a deep appreciation for the potential of technology and a strong passion for the technology space.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - samet.krt@gmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: My favorite film is Star Wars.
 
-<!--
-**sammkrt/sammkrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samet-kurt123)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  <div id="badges">
+  <a href="https://linkedin.com/in/samet-kurt123">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </div>
