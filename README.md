@@ -21,7 +21,7 @@
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Netherhands.
 - :telescope: I’m working as a Full Stack Developer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Improving my tech skills.
 
 - :zap: In my free time, I solve problems on codewars and read tech articles.
 
